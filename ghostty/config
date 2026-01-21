@@ -12,3 +12,4 @@ macos-titlebar-style = tabs
 macos-option-as-alt = true
 
 custom-shader = shaders/cursor_warp.glsl
+keybind = shift+enter=text:\x1b\r
